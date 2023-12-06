@@ -1,0 +1,29 @@
+.containerr {
+  background-color: rgb(245, 245, 245);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: .25rem!important;
+
+}
+li {
+  margin-right: 1rem !important;
+  list-style: none;
+}
+.list ul {
+  display: flex;
+  margin: auto;
+}
+button#dropdown-basic {
+  background-color: white;
+  color: black;
+  border: none;
+  border-radius: 1px;
+}
+.buttons-container{
+  display: flex;
+}
+.dropdown-buttons{
+  margin-right: 30px!important;
+}
+
